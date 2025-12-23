@@ -1,0 +1,13 @@
+fastapi
+typing
+pydantic
+uvicorn
+groq
+instructor
+opensearch-py
+transformers
+torch
+faiss-cpu
+sentence-transformers
+langchain
+openai
