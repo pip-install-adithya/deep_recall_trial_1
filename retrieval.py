@@ -3,7 +3,7 @@ import json
 from fuzzy_metadata_search import fuzzy_search
 from vectordb_functions import get_paras
 
-client = Groq(api_key="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")
+client = Groq(api_key="GROQ")
 
 def extract_from_query(input_query: str) -> dict : 
     messages = [
